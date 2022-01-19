@@ -1,0 +1,40 @@
+body {
+  background-color: lavender;
+}
+
+.topnav {
+  background-color: lightpink;
+  font-family: "Verdana", Helvetica, sans-serif;
+  font-size: 14px;
+  text-align: right;
+}
+
+.active {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+}
+
+.header.large .header.medium .header.small {
+  color: darkslategrey;
+  font-family: Impact, "Arial Narrow Bold", sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.text {
+  color: darkslategrey;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14px;
+}
+
+ul {
+  color: darkslategray;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14px;
+}
+
+img {
+  width: 800px;
+  height: auto;
+  border-radius: 20px;
+}
